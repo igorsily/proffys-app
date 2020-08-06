@@ -1,0 +1,12 @@
+{
+  "name": "proffys-app",
+  "displayName": "proffys-app",
+  "expo": {
+    "name": "proffys-app",
+    "slug": "proffys-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
